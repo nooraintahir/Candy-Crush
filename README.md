@@ -9,4 +9,13 @@ What happens on the back end of the swap is that the mouse clicks provide two se
 ### Candies
 ![image](https://user-images.githubusercontent.com/110716479/231222784-593eb789-4da6-47ad-a595-d175fdc47135.png)
 
+### Bomb
+![image](https://user-images.githubusercontent.com/110716479/231222974-780c41b9-905d-4ca9-a5af-ee855dd77346.png)
+
+Note: The visualization of bomb is written in code but it is not implemented yet in the working game.
+
+### UI
+![image](https://user-images.githubusercontent.com/110716479/231223291-fc893db7-4415-419c-8961-93addd2fb4de.png)
+
+
 
