@@ -1,7 +1,7 @@
 # Candy-Crush
 A game with similar rules to Candy Crush made in Assembly Language
 
-# INTRODUCTION:
+## INTRODUCTION:
 This project is a working version of candy crush written in assembly code, where the user can use the mouse to swap two candies. The goal is to reach a certain target score in a certain number of moves.
 
 # How it is implemented:
